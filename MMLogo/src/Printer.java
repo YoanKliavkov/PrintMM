@@ -11,7 +11,7 @@ public class Printer {
 	 */
 	public static void printMM(final int width) {
 
-		// Всяко от двете М-та (те са еднакви) се състоят от width + 1 реда и width * 5
+		// Всяко от двете М-та (те са еднакви) се състои от width + 1 реда и width * 5
 		// колони.
 		// Тоест двете М-та имат общо width * 10 колони.
 
